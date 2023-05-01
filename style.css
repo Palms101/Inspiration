@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+#imgDiv{
+    
+}
+
+#mainImg{
+    display: block;
+    margin: auto;
+    background-color: #fff;
+    padding: 4px;
+}
+
+h1{
+    margin: auto;
+    color: white;
+    text-align: center;
+}
