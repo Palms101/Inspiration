@@ -2,19 +2,15 @@ body{
     background-color: black;
 }
 
-#imgDiv{
-    
-}
-
-#mainImg{
+img{
     display: block;
-    margin: auto;
-    background-color: #fff;
+    margin: 20px auto 20px auto;
+    background-color: white;
     padding: 4px;
 }
 
 h1{
     margin: auto;
-    color: white;
     text-align: center;
+    color: white;
 }
